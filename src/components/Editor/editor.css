@@ -1,0 +1,18 @@
+.editor {
+	background: var(--white);
+	border: none;
+	outline: none;
+	border-radius: 20px;
+	padding: 20px;
+	flex-grow: 1;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.144);
+	font-family: Fira Code;
+	font-size: 16px;
+	resize: none;
+	color: var(--black);
+}
+@media only screen and (max-width: 768px) {
+	.editor {
+		height: 90vh;
+	}
+}

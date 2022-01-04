@@ -1,0 +1,10 @@
+.dropdown {
+	padding: 10px 15px;
+	background: var(--white);
+	font-family: Roboto Mono;
+	border: none;
+	outline: none;
+	border-radius: 25px;
+	box-shadow: var(--shadow);
+	margin: 0 10px;
+}
